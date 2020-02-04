@@ -1,0 +1,12 @@
+a=int(input())
+
+print(str(a) + "*1=" + str(a * 1))
+print(str(a) + "*2=" + str(a * 2))
+print(str(a) + "*3=" + str(a * 3))
+print(str(a) + "*4=" + str(a * 4))
+print(str(a) + "*5=" + str(a * 5))
+print(str(a) + "*6=" + str(a * 6))
+print(str(a) + "*7=" + str(a * 7))
+print(str(a) + "*8=" + str(a * 8))
+print(str(a) + "*9=" + str(a * 9))
+print(str(a) + "*10=" + str(a * 10))
